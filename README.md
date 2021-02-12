@@ -1,2 +1,2 @@
 # Test
-Creating new repo for trial purpose
+Created new repo and will check-in for trial purpose
